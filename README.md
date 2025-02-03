@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Expense Tracker
+
+FinFlow is a web application that helps users track their expenses and manage their finances efficiently with the power of AI.
+
+## Project Overview
+
+Expense Tracker is a web application designed to help users manage their personal finances by tracking their income and expenses. The application provides a user-friendly interface to add, edit, and delete transactions, and visualize spending patterns through charts and reports.
+
+## Features
+- Live tracking of income and expenses.
+- Easy to Use Mobile App for seemless transactions.
+- Detailed reports and charts for better insights.
+- Personalized Financial Goals and Budgets.
+- (USP) Open Source and Free to Use.
+- (USP) AI powered suggestions for better financial management.
+- (USP) Better Rewards and Cashbacks management.
+
+## Live Demo
+
+Check out the live demo of the project [here](http://your-live-demo-link.com).
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+    npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## API Endpoints
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The project uses the following API endpoints:
+- Not Disclosed Yet!!!
 
-## Learn More
+## Author
 
-To learn more about Next.js, take a look at the following resources:
+- **Lovish Bansal** - [GitHub Profile](https://github.com/lovishGIT)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributors
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+We welcome contributions from the community. Here are some of our contributors:
+- **Janvi Jain** - [GitHub Profile](https://github.com/janvi253)
+- **Lavish Jain** - [GitHub Profile](https://github.com/lavish078)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Feel free to submit pull requests and report issues. Your contributions are greatly appreciated!
